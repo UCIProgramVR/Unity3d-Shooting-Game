@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{73B5FF40-7D3C-91A4-F253-FBF80346FA5D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
     <Files>
-      <File FileName="Assets/Scripts/Player.cs" Line="12" Column="20" />
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="29" Column="67" />
-      <File FileName="Assets/Scripts/CameraController.cs" Line="7" Column="20" />
+      <File FileName="Assets/Scripts/Player.cs" Line="22" Column="59" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="18" Column="24" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="16" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
